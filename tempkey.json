@@ -11,6 +11,6 @@
     "username": "theo",
     "password": "1234",
     "expiresAt": "2026-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
