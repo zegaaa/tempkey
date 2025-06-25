@@ -89,5 +89,12 @@
     "password": "alwi",
     "expiresAt": "2026-11-30",
     "allowOffline": true
+  }, 
+   {
+    "id": "0a3a57f47d53e358",
+    "username": "rizki",
+    "password": "rizki",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
   },
 ]
