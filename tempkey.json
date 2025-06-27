@@ -104,4 +104,11 @@
     "expiresAt": "2026-11-30",
     "allowOffline": true
   },
+  {
+    "id": "6d90f0481dfd57b6",
+    "username": "dimas",
+    "password": "dimas",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
 ]
