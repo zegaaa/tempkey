@@ -111,4 +111,11 @@
     "expiresAt": "2026-11-30",
     "allowOffline": true
   },
+ {
+    "id": "798137bd045a52b8",
+    "username": "samsung",
+    "password": "1234",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true
+  },
 ]
